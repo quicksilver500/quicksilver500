@@ -38,3 +38,4 @@ I specialize in building end-to-end systems that combine **Computer Vision**, **
 - **Focus:** Always open to collaborating on Open Source AI or Automation projects.
 
 ---
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=quicksilver500&show_icons=true&theme=radical)
