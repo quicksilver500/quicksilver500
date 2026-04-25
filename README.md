@@ -7,7 +7,7 @@ I specialize in building end-to-end systems that combine **Computer Vision**, **
 ---
 
 ## 🔍 What I’m Working On
-- **AI Surveillance:** Developing real-time theft detection systems with pre-buffer video recording.
+- **AI Surveillance:** Developing real-time monitoring and activity recogniton to support loss-prvention and shrinkage in retail industry using systems with pre-buffer video recording.
 - **API Orchestration:** Integrating local hardware streams with Telegram, Google Workspace, and custom webhooks.
 - **Resource Optimization:** Pushing the limits of low-RAM systems (1.7GB) to handle high-performance inference.
 
